@@ -18,8 +18,8 @@ Xiamen University of Technology - Xiamen, China (Sept 2013 - June 2017)
 Chuang Hua University - Hsinchu, Taiwan (Sept 2015 - June 2016)
 
 ## 💬Languages
-**Chinese**: native
-**Japanese**: JLPT N1
+**Chinese**: native;
+**Japanese**: JLPT N1;
 **English**: TOEFL iBT 101
 
 ## 📚Publications
