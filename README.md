@@ -3,23 +3,18 @@ Ph.D. student at Osaka University and RIKEN in Kyoto, Japan
 
 ## 👩🏼‍🎓Education
 **Ph.D. student** in System Innovation
-
 Osaka University - Osaka, Japan (Apr 2021 - now)
 
 **Master of Engineering** in System Innovation
-
 Osaka University - Osaka, Japan (Apr 2019 - Mar 2021)
 
 **Research Student** in System Innovation
-
 Osaka University - Osaka, Japan (Apr 2018 - Mar 2019)
 
 **Bachelor of Engineering** in Mechanical Engineering
-
 Xiamen University of Technology - Xiamen, China (Sept 2013 - June 2017)
 
 **Exchange Student** in Mechanical Engineering
-
 Chuang Hua University - Hsinchu, Taiwan (Sept 2015 - June 2016)
 
 ## 💬Languages
