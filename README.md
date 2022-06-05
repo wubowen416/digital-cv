@@ -1,5 +1,7 @@
+
 ## Bowen Wu
-Ph.D. student at Osaka University and RIKEN in Kyoto, Japan
+Ph.D. student at Osaka University and RIKEN in Kyoto, Japan\
+[email](wu.bowen.dp@gmail.com)
 
 ## 👩🏼‍🎓Education
 **Ph.D. student** in System Innovation\
