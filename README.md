@@ -24,11 +24,14 @@ Chuang Hua University - Hsinchu, Taiwan (Sept 2015 - June 2016)
 **English**: TOEFL iBT 101
 
 ## 📚Publications
+**Controlling the Impression of Robots via GAN-based Gesture Generation**\
+B Wu, J Shi, C Liu, CT Ishi, H Ishiguro at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 2022.
+
 **Probabilistic human-like gesture synthesis from speech using GRU-based WGAN**\
 B Wu, C Liu, CT Ishi, H Ishiguro at Companion Publication of the 2021 International Conference on Multimodal Interaction. 2021.
 
 **Modeling the conditional distribution of co-speech upper body gesture jointly using conditional-GAN and unrolled-GAN**\
-Wu, C Liu, CT Ishi, H Ishiguro at Electronics 10.3 (2021): 228.
+B Wu, C Liu, CT Ishi, H Ishiguro at Electronics 10.3 (2021): 228.
 
 **Improving Conditional-GAN using Unrolled-GAN for the Generation of Co-speech Upper Body Gesture**\
-Wu, C Liu, CT Ishi, H Ishiguro at AI-Challenge 2020
+B Wu, C Liu, CT Ishi, H Ishiguro at AI-Challenge 2020
