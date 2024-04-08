@@ -19,8 +19,8 @@ Osaka University - Osaka, Japan (Apr. 2018 - Mar. 2019)
 Chuang Hua University - Hsinchu, Taiwan (Sep. 2015 - Jun. 2016)
 
 ## 👩🏼‍🎓Education
-**Ph.D. student** in System Innovation\
-Osaka University - Osaka, Japan (Apr. 2021 - now)
+**Doctor of Engineering** in System Innovation\
+Osaka University - Osaka, Japan (Apr. 2021 - Mar. 2024)
 
 **Master of Engineering** in System Innovation\
 Osaka University - Osaka, Japan (Apr. 2019 - Mar. 2021)
@@ -35,7 +35,7 @@ Xiamen University of Technology - Xiamen, China (Sep. 2013 - Jun. 2017)
 
 ## 📚Publications
 **Extrovert or Introvert? GAN-Based Humanoid Upper-Body Gesture Generation for Different Impressions**\
-B. Wu, C. Liu, C. T. Ishi, J. Shi, H. Ishiguro. International Journal of Social Robotics. 2023.
+**B. Wu**, C. Liu, C. T. Ishi, J. Shi, H. Ishiguro. International Journal of Social Robotics. 2023.
 
 **Recognizing Real-World Intentions using A Multimodal Deep Learning Approach with Spatial-Temporal Graph Convolutional Networks**\
 J. Shi, C. Liu, C. T. Ishi, **B Wu**, H. Ishiguro. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 2023.
