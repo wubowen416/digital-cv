@@ -29,9 +29,7 @@ Osaka University - Osaka, Japan (Apr. 2019 - Mar. 2021)
 Xiamen University of Technology - Xiamen, China (Sep. 2013 - Jun. 2017)
 
 ## Languages
-**Chinese**: native\
-**Japanese**: JLPT N1\
-**English**: TOEFL iBT 101\
+My first language is Mandarin. I also speak English and Japanese (understandable level).
 
 ## 📚Publications
 Please check out my [Google Scholar](https://scholar.google.com/citations?hl=en&user=nLqUb5oAAAAJ).
