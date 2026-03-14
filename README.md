@@ -1,6 +1,6 @@
 
 ## Bowen Wu
-I am interested in research on human robot interaction and human behavior modelling.
+Robot learning for social robots.
 
 ## Experience
 **Special Postdoctoral Researcher**, Interactive Robot Research Team\
